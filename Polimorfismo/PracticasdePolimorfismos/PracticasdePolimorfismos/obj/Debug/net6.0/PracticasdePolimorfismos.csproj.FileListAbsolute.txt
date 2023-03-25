@@ -1,0 +1,15 @@
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.csproj.AssemblyReference.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.AssemblyInfo.cs
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\bin\Debug\net6.0\PracticasdePolimorfismos.exe
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\bin\Debug\net6.0\PracticasdePolimorfismos.deps.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\bin\Debug\net6.0\PracticasdePolimorfismos.runtimeconfig.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\bin\Debug\net6.0\PracticasdePolimorfismos.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\bin\Debug\net6.0\PracticasdePolimorfismos.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\refint\PracticasdePolimorfismos.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\PracticasdePolimorfismos.genruntimeconfig.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Polimorfismo\PracticasdePolimorfismos\PracticasdePolimorfismos\obj\Debug\net6.0\ref\PracticasdePolimorfismos.dll

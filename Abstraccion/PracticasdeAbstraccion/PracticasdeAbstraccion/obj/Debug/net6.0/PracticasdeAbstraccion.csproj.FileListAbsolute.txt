@@ -1,0 +1,15 @@
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\bin\Debug\net6.0\PracticasdeAbstraccion.exe
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\bin\Debug\net6.0\PracticasdeAbstraccion.deps.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\bin\Debug\net6.0\PracticasdeAbstraccion.runtimeconfig.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\bin\Debug\net6.0\PracticasdeAbstraccion.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\bin\Debug\net6.0\PracticasdeAbstraccion.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.csproj.AssemblyReference.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.AssemblyInfo.cs
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\refint\PracticasdeAbstraccion.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\PracticasdeAbstraccion.genruntimeconfig.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Abstraccion\PracticasdeAbstraccion\PracticasdeAbstraccion\obj\Debug\net6.0\ref\PracticasdeAbstraccion.dll

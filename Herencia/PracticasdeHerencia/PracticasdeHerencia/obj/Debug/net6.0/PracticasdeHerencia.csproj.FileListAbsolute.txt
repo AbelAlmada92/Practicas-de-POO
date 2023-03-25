@@ -1,0 +1,15 @@
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.csproj.AssemblyReference.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.AssemblyInfo.cs
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\bin\Debug\net6.0\PracticasdeHerencia.exe
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\bin\Debug\net6.0\PracticasdeHerencia.deps.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\bin\Debug\net6.0\PracticasdeHerencia.runtimeconfig.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\bin\Debug\net6.0\PracticasdeHerencia.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\bin\Debug\net6.0\PracticasdeHerencia.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\refint\PracticasdeHerencia.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\PracticasdeHerencia.genruntimeconfig.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Herencia\PracticasdeHerencia\PracticasdeHerencia\obj\Debug\net6.0\ref\PracticasdeHerencia.dll

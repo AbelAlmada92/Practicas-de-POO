@@ -1,0 +1,15 @@
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\bin\Debug\net6.0\PracticasdeEncapsulamiento.exe
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\bin\Debug\net6.0\PracticasdeEncapsulamiento.deps.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\bin\Debug\net6.0\PracticasdeEncapsulamiento.runtimeconfig.json
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\bin\Debug\net6.0\PracticasdeEncapsulamiento.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\bin\Debug\net6.0\PracticasdeEncapsulamiento.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.csproj.AssemblyReference.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.AssemblyInfoInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.AssemblyInfo.cs
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\refint\PracticasdeEncapsulamiento.dll
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.pdb
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\PracticasdeEncapsulamiento.genruntimeconfig.cache
+C:\Users\judit\Desktop\Proyectos\Practicas en C#\POO\Encapsulamiento\PracticasdeEncapsulamiento\PracticasdeEncapsulamiento\obj\Debug\net6.0\ref\PracticasdeEncapsulamiento.dll
